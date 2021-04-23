@@ -1,1 +1,1 @@
-Criando um arquivo para tester o comando pull
+Criando um arquivo para testar o comando pull
